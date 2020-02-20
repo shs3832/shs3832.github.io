@@ -10,9 +10,9 @@
                 <li>
                     <router-link to="/portfolio">Portfolio</router-link>
                 </li>
-                <li>
+                <!-- <li>
                     <a href="/link">link</a>
-                </li>
+                </li>-->
             </ul>
         </div>
         <router-view />
