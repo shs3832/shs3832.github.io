@@ -10,6 +10,9 @@
                 <li>
                     <router-link to="/portfolio">Portfolio</router-link>
                 </li>
+                <li>
+                    <a href="/link">link</a>
+                </li>
             </ul>
         </div>
         <router-view />
@@ -51,10 +54,11 @@
             border-bottom: 1px solid rgba(255, 255, 255, 0.2);
             text-decoration: none;
             color: #fff;
-            transition: 0.4s border-color;
+            transition: 0.4s all;
             font-size: 18px;
             &:hover {
-                border-color: white;
+                color: rgba(255, 255, 255, 0.7);
+                border-color: rgba(255, 255, 255, 0.7);
             }
         }
     }

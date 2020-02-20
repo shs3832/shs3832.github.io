@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ({
     "title": "야나두 신사업 웹뷰, admin 페이지 마크업 및 스크립트 개발",
     "term": "2019.11~2020.01",
@@ -51,3 +52,58 @@
     "url": "",
     "summary": ["1. 현대 3.0 PIP페이지 개선 및 운영", "2. 현대 유럽 운영과 동시에 진행"]
 })
+=======
+({
+    "title": "야나두 신사업 웹뷰, admin 페이지 마크업 및 스크립트 개발",
+    "term": "2019.11~2020.01",
+    "contribution": "100%",
+    "tools": "HTML,SCSS,jQuery,Vue",
+    "url": "",
+    "summary": ["1. 코딩 가이드 및 코드 모듈화 템플릿 작업", "2. 기초적인 Vue 활용", "3. scss mixin 활용"]
+},
+{
+    "title": "LG Global 5.0",
+    "term": "2018.09~2019.02",
+    "contribution": "70%",
+    "tools": "HTML,SCSS,jQuery,Gulp,Javascript",
+    "url": "https://www.lg.com/us",
+    "summary": [
+        "1. 협업을 위한 형상관리툴 SVN 사용",
+        "2. html 코드를 모듈화 시켜 페이지 어떤곳에도 가져다 쓸수있게 작업",
+        "3. 일부 페이지 ajax 비동기 작업처리",
+        "4. 빌드툴 gulp 사용으로 css,js 파일 관리"
+    ]
+},
+{
+    "title": "LG Display T-OLED",
+    "term": "2018.09~2019.02",
+    "contribution": "100%",
+    "tools": "HTML,SCSS,jQuery,Javascript",
+    "url": "https://www.lg-informationdisplay.com/oled-signage/brand",
+    "summary": ["1. jQuery 애니메이션 활용"]
+},
+{
+    "title": "LG Signature Global",
+    "term": "2018.09~2019.10",
+    "contribution": "80%",
+    "tools": "HTML,SCSS,jQuery,Javascript",
+    "url": "https://www.lg.com/global/lg-signature/brand",
+    "summary": ["1. jQuery 플러그인 제작 및 활용", "2. global 페이지를 13개국확산작업"]
+},
+{
+    "title": "Samsung eStore Web Accessibility",
+    "term": "2018.02 ~ 2018.05",
+    "contribution": "50%",
+    "tools": "HTML, CSS, ppt",
+    "url": "",
+    "summary": ["1. 스토어삼성 vietnam, sec 등 해외국가 웹페이지 접근성 검수 및 수정사항 전달"]
+},
+{
+    "title": "Hyundai Motors 3.0, HMEurope",
+    "term": "2016.10 ~ 2018.02",
+    "contribution": "100%",
+    "tools": "HTML, CSS, jQuery",
+    "url": "",
+    "summary": ["1. 현대 3.0 PIP페이지 개선 및 운영", "2. 현대 유럽 운영과 동시에 진행"]
+})
+>>>>>>> 1a0744b4a7633898d4c83c0d96a8f2b8881bc2e8

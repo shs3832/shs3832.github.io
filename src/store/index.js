@@ -1,11 +1,13 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
-// import axios from 'axios';
+import list from '../data/pf.json';
 
 Vue.use(Vuex);
 
 export default new Vuex.Store({
-    state: {},
+    state: {
+        list
+    },
     mutations: {},
     actions: {},
     modules: {}

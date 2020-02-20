@@ -2,6 +2,7 @@ import Vue from 'vue';
 import VueRouter from 'vue-router';
 import About from '../views/About.vue';
 import Portfolio from '../views/Portfolio.vue';
+import Link from '../views/link.vue';
 Vue.use(VueRouter);
 
 const routes = [
@@ -18,6 +19,11 @@ const routes = [
         path: '/portfolio',
         name: 'Portfolio',
         component: Portfolio
+    },
+    {
+        path: '/link',
+        name: 'link',
+        component: Link
     }
 ];
 
