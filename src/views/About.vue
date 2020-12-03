@@ -4,20 +4,25 @@
         <p>적은 코드로 많은 일을 하게하고싶은 마크업개발자</p>
 
         <h3>간단한 소개</h3>
-        <p>안녕하세요 7년차 마크업개발자 입니다</p>
+        <p>안녕하세요 8년차 마크업개발자 입니다</p>
         <p>
             현재 프론트엔드 영역까지 어느정도 이해하고자
-            <span class="v-logo">Vue</span>를 스터디하고있습니다.
-            <br />완벽하진 않지만 해당 페이지를
-            <span class="v-logo">Vue</span>로 마크업하며
+            <span class="v-logo">Vue</span>를 스터디하고있습니다. <br />완벽하진
+            않지만 해당 페이지를 <span class="v-logo">Vue</span>로 마크업하며
             연습중입니다
             <br />
-            <small>* 라우터와 간단한 스크립트로만 구성해봤습니다 기능이 별게없네요</small>
+            <small
+                >* 라우터와 간단한 스크립트로만 구성해봤습니다 기능이
+                별게없네요</small
+            >
         </p>
         <p>
-            <span class="underline">HTML, CSS, SCSS, javascript, jQuery, svn, gulp</span> 를 조금 다룰줄압니다
-            <br />현재는 퍼블분야와 프론트쪽에 관심이 있어 이런 저런 인강을 인프런으로 스터디하고있습니다
-            <br />스터디하며 이 페이지들도 차차 업데이트 해보고자 합니다
+            <span class="underline"
+                >HTML, CSS, SCSS, javascript, jQuery, svn, gulp</span
+            >
+            를 조금 다룰줄압니다 <br />현재는 퍼블분야와 프론트쪽에 관심이 있어
+            이런 저런 인강을 인프런으로 스터디하고있습니다 <br />스터디하며 이
+            페이지들도 차차 업데이트 해보고자 합니다
         </p>
         <p>앞으로도 다양한 프로젝트를 하며 경험을 쌓아보고싶습니다</p>
     </div>
